@@ -1,0 +1,7 @@
+
+0.15s    22071  http://library.dp.ua
+0.62s    15496  http://virtlibrary.pp.ua
+0.62s    15496  http://virtlibrary.pp.ua
+0.67s    22071  http://library.dp.ua
+0.13s    15496  http://virtlibrary.pp.ua
+0.16s    22071  http://library.dp.ua
